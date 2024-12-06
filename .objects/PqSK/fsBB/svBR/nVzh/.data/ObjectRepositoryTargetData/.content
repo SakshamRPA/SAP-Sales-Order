@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HvM-WWJ2SkSFPargah6Ieg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="193, 110, 177, 33" DesignTimeScaleFactor="1.5" ElementType="TabPage" FullSelectorArgument="&lt;wnd cls='SysTabControl32' title='Tab' /&gt;&lt;ctrl name='Tab' role='page tab list' /&gt;&lt;ctrl name='Passwords.txt' role='page tab' /&gt;" FuzzySelectorArgument="&lt;wnd cls='SysTabControl32' title='Tab' /&gt;&lt;ctrl name='Tab' role='page tab list' /&gt;&lt;ctrl name='Passwords.txt' role='page tab' automationid='' check:text='Passwords.txt' /&gt;" Guid="3ff7c83f-83c3-4ac0-88ee-c4eb5d83cc96" ScopeSelectorArgument="&lt;wnd app='notepad++.exe' cls='Notepad++' title='*new 9 - Notepad++' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d3db58092ec9e619164078e610181a4d.png" xmlns="">0DSWP3Bqc90CHC7oFpIGiDw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

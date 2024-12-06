@@ -6,12 +6,12 @@
     <members>
         <member name="M:SAPSalesOrderAutomation.WorkflowRunnerService.SAP_Sales_Order_Automation">
             <summary>
-            Invokes the SAP Sales Order Automation.xaml
+            Invokes the TestCases/SAP Sales Order Automation.xaml
             </summary>
         </member>
         <member name="M:SAPSalesOrderAutomation.WorkflowRunnerService.SAP_Sales_Order_Automation(System.Boolean)">
             <summary>
-            Invokes the SAP Sales Order Automation.xaml
+            Invokes the TestCases/SAP Sales Order Automation.xaml
             </summary>
             <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
         </member>

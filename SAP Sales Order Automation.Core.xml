@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SAP Sales Order Automation.Core</name>
+    </assembly>
+    <members>
+        <member name="M:SAPSalesOrderAutomation.WorkflowRunnerService.SAP_Sales_Order_Automation">
+            <summary>
+            Invokes the TestCases/SAP Sales Order Automation.xaml
+            </summary>
+        </member>
+        <member name="M:SAPSalesOrderAutomation.WorkflowRunnerService.SAP_Sales_Order_Automation(System.Boolean)">
+            <summary>
+            Invokes the TestCases/SAP Sales Order Automation.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:SAPSalesOrderAutomation.WorkflowRunnerService.TestCase">
+            <summary>
+            Invokes the TestCase.xaml
+            </summary>
+        </member>
+        <member name="M:SAPSalesOrderAutomation.WorkflowRunnerService.TestCase(System.Boolean)">
+            <summary>
+            Invokes the TestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+    </members>
+</doc>
