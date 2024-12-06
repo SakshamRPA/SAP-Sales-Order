@@ -1,0 +1,12 @@
+﻿{
+  "Name": "SAP Logon 770",
+  "Type": "Screen",
+  "Id": "1V3bKfmZX06sOCTNPiW_DA",
+  "Reference": "6aJnBuqMFk6VM2qpT1yzjw/1V3bKfmZX06sOCTNPiW_DA",
+  "ParentRef": "6aJnBuqMFk6VM2qpT1yzjw/qhyRNQ9nLUmdjAobOco8rA",
+  "Created": "2024-12-06T09:12:46.9520335Z",
+  "Updated": "2024-12-06T09:12:46.9520335Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

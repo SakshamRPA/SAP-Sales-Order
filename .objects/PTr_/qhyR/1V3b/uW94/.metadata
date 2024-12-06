@@ -1,0 +1,13 @@
+﻿{
+  "Name": "S3X",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "uW943-arVEGd-jjwh4DDfw",
+  "Reference": "6aJnBuqMFk6VM2qpT1yzjw/uW943-arVEGd-jjwh4DDfw",
+  "ParentRef": "6aJnBuqMFk6VM2qpT1yzjw/1V3bKfmZX06sOCTNPiW_DA",
+  "Created": "2024-12-06T09:12:47.0193553Z",
+  "Updated": "2024-12-06T09:12:47.0193553Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

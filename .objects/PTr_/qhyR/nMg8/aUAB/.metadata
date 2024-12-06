@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Button Cancel (F12)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "aUAB9LHvrUKOyAe-0V9K4A",
+  "Reference": "6aJnBuqMFk6VM2qpT1yzjw/aUAB9LHvrUKOyAe-0V9K4A",
+  "ParentRef": "6aJnBuqMFk6VM2qpT1yzjw/nMg8BcqlkU6UrRF0VG6cIQ",
+  "Created": "2024-12-06T09:29:36.3587478Z",
+  "Updated": "2024-12-06T09:29:36.3587478Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

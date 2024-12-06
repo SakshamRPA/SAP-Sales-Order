@@ -2,7 +2,7 @@
   "name": "SAP Sales Order Automation",
   "projectId": "3ac1ac51-6411-4d78-9070-500be8b92ab8",
   "description": "This automation will be test driven automation which includes SAP Integration , Automation OPS CI/CD Pipeline , Storage Bucket for business exception , Queues ,Test Suite",
-  "main": "SAP Sales Order Automation.xaml",
+  "main": "TestCases\\SAP Sales Order Automation.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.2]",
     "UiPath.Mail.Activities": "[1.23.11]",
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.5.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,7 +43,21 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d9f7324d-1446-4af8-8ba2-5ce82098700a",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "49e5f510-06dd-413e-9997-d4ceca020bd7",
+        "testCaseType": "TestCase",
+        "fileName": "CodedTestCase.cs"
+      }
+    ],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
@@ -51,6 +65,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "807cc10d-68fc-4f7e-bc4c-7522c00fab66",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TestCases\\SAP Sales Order Automation.xaml",
+      "uniqueId": "afdfa374-a52b-4628-8e34-9157f6e22c75",
       "input": [],
       "output": []
     }

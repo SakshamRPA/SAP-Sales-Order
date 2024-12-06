@@ -1,0 +1,12 @@
+﻿{
+  "Name": "SAP Easy Access",
+  "Type": "Screen",
+  "Id": "i2cym4Oyu060TX1zF5LGZQ",
+  "Reference": "6aJnBuqMFk6VM2qpT1yzjw/i2cym4Oyu060TX1zF5LGZQ",
+  "ParentRef": "6aJnBuqMFk6VM2qpT1yzjw/qhyRNQ9nLUmdjAobOco8rA",
+  "Created": "2024-12-06T09:48:52.561394Z",
+  "Updated": "2024-12-06T09:48:52.561394Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1dX34wwTFUm1m1TK8oWWVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="2d495faf-2651-4d73-ad43-495b07cb42a3" CvTextArea="39, 9, 212, 22" CvTextArgument="Log On Enter" CvType="Text" DesignTimeRectangle="3, 3, 283, 33" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;ctrl name='Context' role='popup menu' /&gt;&lt;ctrl automationid='32781' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Context' role='popup menu' /&gt;&lt;ctrl automationid='32781' role='menu item' check:text='Log On&amp;#x9;Enter' /&gt;" Guid="4c645a9d-9942-45e3-b993-98a38b875ac7" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32768' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b8077f48a3e64edb708a885aa0ea6bd9.png" xmlns="">0RMrVyab_yki_nakSsz8S6w</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

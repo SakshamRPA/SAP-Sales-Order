@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Continue with this logon, without ending",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "Q6XFFqvJRE-DQWASe-YzNg",
+  "Reference": "6aJnBuqMFk6VM2qpT1yzjw/Q6XFFqvJRE-DQWASe-YzNg",
+  "ParentRef": "6aJnBuqMFk6VM2qpT1yzjw/sOdgyiYivUCikC61hAs0Hg",
+  "Created": "2024-12-06T09:29:36.4810998Z",
+  "Updated": "2024-12-06T09:29:36.4810998Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

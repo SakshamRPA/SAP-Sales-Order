@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Log On Enter",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "kWgV3HN6oEucWN-pR3o78Q",
+  "Reference": "6aJnBuqMFk6VM2qpT1yzjw/kWgV3HN6oEucWN-pR3o78Q",
+  "ParentRef": "6aJnBuqMFk6VM2qpT1yzjw/1V3bKfmZX06sOCTNPiW_DA",
+  "Created": "2024-12-06T09:44:19.3284477Z",
+  "Updated": "2024-12-06T09:44:19.3284477Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
